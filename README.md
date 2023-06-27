@@ -1,8 +1,12 @@
 # The unofficial AOKZOE A1 Pro User Guide
+<p align="center">
+   <img src="img/a1pro.jpg" height=200/>
+</pF>
 
-<img src="img/a1pro.jpg" height=200/>
 
-Unofficial user guide for the AOKZOE A1 Pro handheld computer
+# Unofficial user guide for the AOKZOE A1 Pro handheld computer
+
+Hi, and welcome to the unofficial user guide for the AOKZOE A1 Pro handheld computer! This guide contains essential information to get you started, do's and don'ts as well as essential reading material and online communities. Always a work in progress, so feel free to raise issues, or better yet: pull requests if you think someting should be changed or added.
 
 ## Contents
 
