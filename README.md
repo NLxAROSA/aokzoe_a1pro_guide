@@ -14,7 +14,7 @@ Hi, and welcome to the unofficial user guide for the AOKZOE A1 Pro handheld comp
 
 ### Things you should never do
 
-* Never install the A1 (AMD Ryzen 7 6800U) BIOS on the A1 Pro (AMD Ryzen 7 7840U). Different platform, may brick your device. Same for vice versa.
+* NEVER install the A1 (AMD Ryzen 7 6800U) BIOS on the A1 Pro (AMD Ryzen 7 7840U). Different platform, may brick your device. Same for vice versa.
 
 ### Things you should always do
 
@@ -24,5 +24,11 @@ Hi, and welcome to the unofficial user guide for the AOKZOE A1 Pro handheld comp
 
 ## Essential links
 
-[Official AOKZOE and community Discord](https://t.co/l34hV0bSfA)
-[Official AOKZOE A1 Pro driver package](https://1drv.ms/u/s!AilYUA_Au4xWz1W3_hSXO0i2xZHs?e=2ZD15s)
+* [Official AOKZOE and community Discord](https://t.co/l34hV0bSfA)
+* [Official AOKZOE A1 Pro driver package](https://1drv.ms/u/s!AilYUA_Au4xWz1W3_hSXO0i2xZHs?e=2ZD15s)
+* [Official AOKZOE website](https://aokzoestore.com/)
+* [Indiegogo campaign for the A1 Pro](https://www.indiegogo.com/projects/aokzoe-a1pro-world-s-1st-7840u-gaming-handheld#/)
+
+## Disclaimers
+
+Use any information in this guide or linked from this guide at your own risk. It's perfectly possible to brick your device by tinkering with BIOS or other settings and opening it up can totally damage it physically. Do so at your own risk.
