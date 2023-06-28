@@ -34,6 +34,10 @@ Hi, and welcome to the unofficial user guide for the AOKZOE A1 Pro handheld comp
 
 * [Handheld Control Panel](https://github.com/project-sbc/Handheld-Control-Panel/releases/tag/1.0.0.0)
 * [Motion Assistant with 7840U support](https://www.mediafire.com/file/t1i783hyspu4wwz/MotionAssistant_1162.zip/file)
+* [Driver archive with every A1 Pro driver one could possibly need](https://mega.nz/file/TVxAwLzA#QutamkUqTFG8rOHeGcQwPidjfqIGTdCb1EWCjFbLbSc)
+* [OneXConsole 0.5.11](https://aokzoe.oss-cn-hangzhou.aliyuncs.com/a1_drivers/OneXConsole_0.5.11.exe)
+* [Unofficial community drivers for the 7840U](https://gbatemp.net/forums/aokzoe-a1-pro.657/)
+
 
 ## Disclaimers
 
