@@ -1,7 +1,7 @@
 # The unofficial AOKZOE A1 Pro User Guide
 <p align="center">
    <img src="img/a1pro.jpg" height=200/>
-</pF>
+</p>
 
 
 # Unofficial user guide for the AOKZOE A1 Pro handheld computer
@@ -21,6 +21,22 @@ Hi, and welcome to the unofficial user guide for the AOKZOE A1 Pro handheld comp
 * Always check the [Official AOKZOE and community Discord](https://t.co/l34hV0bSfA), it has the latest updates/news, direct access to AOKZOE and a very competent community.
 
 ## Troubleshooting
+
+Common issues and fixes will be put here.
+
+## Tricks and tips
+
+### Remapping hotkeys
+
+See below picture for an overview of the configured hotkeys and how they map to the buttons on the A1 Pro. You can use a tool such as [Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/keyboard-manager) to remap them if needed.
+
+<p align="center">
+   <img src="img/image.png" height=200/>
+</p>
+
+### Fresh Windows 11 installations
+
+If you replaced the SSD or just want to do a fresh Windows 11 installation, you might end up spending a lot of time collecting all the required device drivers for graphics, audio, accellerometer, etc. You can save a lot of time by using the 'Driver archive' from the links section. This contains all the necessary drivers. From Device Manager, select the top level element (name of your device) and right click it, then select 'install drivers'. It will take a few minutes and afterwards everything will be there. Reboot and you're all good to go.
 
 ## Essential links
 
