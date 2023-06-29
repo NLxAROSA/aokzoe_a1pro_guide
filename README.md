@@ -1,6 +1,6 @@
 # The unofficial AOKZOE A1 Pro User Guide
 <p align="center">
-   <img src="img/a1pro.jpg" height=200/>
+   <img src="img/a1pro.jpg" width=600/>
 </p>
 
 
@@ -31,7 +31,7 @@ Common issues and fixes will be put here.
 See below picture for an overview of the configured hotkeys and how they map to the buttons on the A1 Pro. You can use a tool such as [Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/keyboard-manager) to remap them if needed.
 
 <p align="center">
-   <img src="img/image.png" height=200/>
+   <img src="img/image.png" width=600/>
 </p>
 
 ### Fresh Windows 11 installations
