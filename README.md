@@ -48,12 +48,16 @@ If you replaced the SSD or just want to do a fresh Windows 11 installation, you 
 
 ## Useful utilities and apps
 
+* [Replace the legacy Windows on-screen keyboard (ReplaceOSK)](https://github.com/Lulech23/ReplaceOSK)
 * [Handheld Control Panel](https://github.com/project-sbc/Handheld-Control-Panel/releases/tag/1.0.0.0)
 * [Motion Assistant with 7840U support](https://www.mediafire.com/file/t1i783hyspu4wwz/MotionAssistant_1162.zip/file)
 * [Driver archive with every A1 Pro driver one could possibly need](https://mega.nz/file/TVxAwLzA#QutamkUqTFG8rOHeGcQwPidjfqIGTdCb1EWCjFbLbSc)
 * [OneXConsole 0.5.11](https://aokzoe.oss-cn-hangzhou.aliyuncs.com/a1_drivers/OneXConsole_0.5.11.exe)
 * [Unofficial community drivers for the 7840U](https://gbatemp.net/forums/aokzoe-a1-pro.657/)
 
+## Reviews
+
+[James Techjackin' Jackson A1 Pro Review](https://www.youtube.com/watch?v=FQyrs-rVxp0)
 
 ## Disclaimers
 
