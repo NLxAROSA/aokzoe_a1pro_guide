@@ -20,8 +20,8 @@ Hi, and welcome to the unofficial user guide for the AOKZOE A1 Pro handheld comp
 
 ## Troubleshooting
 
-[OneXConsoler/Player Center not opening or not showing content](fixes/PLAYERCENTREFIXES.md)
-[Don't lock the screen when screen goes to sleep](fixes/NOLOCKONSCREENSLEEP.md)
+* [OneXConsoler/Player Center not opening or not showing content](fixes/PLAYERCENTREFIXES.md)
+* [Don't lock the screen when screen goes to sleep](fixes/NOLOCKONSCREENSLEEP.md)
 
 ## Tricks and tips
 
