@@ -25,6 +25,8 @@ Hi, and welcome to the unofficial user guide for the AOKZOE A1 Pro handheld comp
 
 ## Tricks and tips
 
+* [Realtek Audio Console EQ settings for better sound on inbuild Speakers from A1 Pro](howtos/realtek.md) 
+
 ### Remapping hotkeys
 
 See below picture for an overview of the configured hotkeys and how they map to the buttons on the A1 Pro. You can use a tool such as [Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/keyboard-manager) to remap them if needed.
