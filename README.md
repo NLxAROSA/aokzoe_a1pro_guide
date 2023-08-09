@@ -25,7 +25,7 @@ Hi, and welcome to the unofficial user guide for the AOKZOE A1 Pro handheld comp
 
 ## Tricks and tips
 
-* [Realtek Audio Console EQ settings for better sound on inbuild Speakers from A1 Pro](howtos/realtek.md) 
+* [Realtek Audio Console EQ settings for better sound on the built-in speakers of the A1 Pro](howtos/realtek.md) 
 
 ### Remapping hotkeys
 

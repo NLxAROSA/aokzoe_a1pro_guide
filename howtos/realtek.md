@@ -1,4 +1,4 @@
-** Realtek Audio Console EQ settings for better sound on inbuild Speakers from A1 Pro **
+** Realtek Audio Console EQ settings for better sound on the built-in speakers of the A1 Pro **
 
 If you want to enhance the sound of the onboard speakers, but don't want to add another tool such as FXSound, you can also configure the EQ on the Realtek Audio Console. The console comes with the audio drivers and should already be on your A1 Pro.
 
