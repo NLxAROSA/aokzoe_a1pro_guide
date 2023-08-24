@@ -58,7 +58,7 @@ Do `NOT` flash BIOS and/or EC if you don't have any problems, do `NOT` flash BIO
 
 ## Useful utilities and apps
 
-* [GBATemp Unofficial community drivers 23.7.2 for the 7840U]([https://gbatemp.net/forums/aokzoe-a1-pro.657/](https://gbatemp.net/threads/amernime-zone-23-7-2-drivers-icafe-edition-for-amd-ryzen-7-7840u-updated-08-20-2023.635182/)
+* [GBATemp Unofficial community drivers 23.7.2 for the 7840U](https://gbatemp.net/threads/amernime-zone-23-7-2-drivers-icafe-edition-for-amd-ryzen-7-7840u-updated-08-20-2023.635182/)
 * [GBATemp forum for the AOKZOE A1 Pro](https://gbatemp.net/forums/aokzoe-a1-pro.657/)
 * [GBATemp thread on how to reassign the Turbo button with Handheld Companion](https://gbatemp.net/threads/mod-assigning-the-turbo-button-in-hc-handheld-companion.636090/)
 * [Joe's ICC color profile (removes blueish/greenish tint and sets correct white point, grayscales and colors)](files/AOKZOE_A1P_ICC.zip)
